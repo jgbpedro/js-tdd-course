@@ -1,0 +1,23 @@
+{
+  "name": "js-com-tdd",
+  "version": "1.0.0",
+  "description": "Nossa biblioteca do curso de js com tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgbpedro/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "José Guilherme <jguilhermebp@live.com> (http://jgbpedro.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgbpedro/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/jgbpedro/js-tdd-course#readme"
+}
