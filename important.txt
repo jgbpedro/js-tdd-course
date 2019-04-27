@@ -1,0 +1,2 @@
+!Editor config
+::Imprescindível a instalação e configuração para o editor
