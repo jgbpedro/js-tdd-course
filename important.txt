@@ -1,2 +1,12 @@
 !Editor config
-::Imprescindível a instalação e configuração para o editor
+::Imprescindível a instalação e configuração para o editor e padronizar ao bnbrb
+
+!Hooks
+::Husky
+  npm install husky --save-dev
+
+!nipher.io
+::Ecmascript doc and examples
+
+ES6
+::Object.freeze(obg) - turns the object immutable
